@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "d12b53d4e3c60d33",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0bd4666e81cd94f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1db246f19ed0b69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Menus/Frontend.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e723bf3a74aa161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Menus/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10df32c27e1874b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/Angular.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5b7b89d3ee6191e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Menus/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a987322bee524ba1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/LInks/Links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af203ffa28c57cba",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e89c87f7fd3e2968",
+    "type": "split",
+    "children": [
+      {
+        "id": "c42fcfee8292e17c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3817fce7e51ff4b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f7482100b101076",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f3e4c387c54be646",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 321.5
+  },
+  "right": {
+    "id": "377fe83417166bc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5fa4158123d7da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa668de06e336145",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0fbc7b0f7920a2d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1ee99e1608902fde",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8668b4176dc9dc55",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "af203ffa28c57cba",
+  "lastOpenFiles": [
+    "Principles_&_Others/Architectures/Common.md",
+    "Principles_&_Others/Patterns/CQRS.md",
+    "Principles_&_Others/Architectures/Microservices/Messages_Transports.md",
+    "Principles_&_Others/Architectures/Clean_Architecture.md",
+    "Principles_&_Others/Patterns/Design_Patterns.md",
+    "Principles_&_Others/Algorithms/Weighted_Random_Selection.md",
+    "Principles_&_Others/Algorithms/Sorts.md",
+    "Backend/Authentication_and_authorization/SSO.md",
+    "Backend/Authentication_and_authorization/JWT.md",
+    "Backend/Authentication_and_authorization/Authorization.md",
+    "Backend/Authentication_and_authorization/Authentication.md",
+    "Backend/Authentication_and_authorization",
+    "DevOps/Gateways/Api_Gateway.md",
+    "SQL/MSSQL/Deadlocks.md",
+    "SQL/MSSQL/Locks.md",
+    "Backend/Parallelism_and_concurrency.md",
+    "Backend/Sync_Vs_Async.md",
+    "Backend/Pagination_Types.md",
+    "Backend/CSharp.md",
+    "Resources/LInks/Links.md",
+    "Principles_&_Others/Architectures/Microservices/Message_Brokers.md",
+    "Resources/LInks",
+    "Resources/Puctures",
+    "Principles_&_Others/Architectures/Rest_Architecture.md",
+    "Principles_&_Others/Architectures/Microservices",
+    "DevOps/Docker/Docker.md",
+    "DevOps/Kubernetes/Kubernetes.md",
+    "Principles_&_Others/Architectures/DDD.md",
+    "DevOps/Gateways",
+    "DevOps/Load_Balancing",
+    "DevOps/Docker",
+    "DevOps/Kubernetes",
+    "DevOps/Clauds/Azure",
+    "DevOps/Clauds",
+    "Frontend/React.md",
+    "Principles_&_Others/OOP/SOLID.md",
+    "Resources/Puctures/C_Sharp_wordmark.png",
+    "resources/C_Sharp_wordmark.svg.png",
+    "Untitled.canvas"
+  ]
+}
