@@ -8,75 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1db246f19ed0b69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Menus/Frontend.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e723bf3a74aa161",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Menus/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10df32c27e1874b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Frontend/Angular.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5b7b89d3ee6191e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Menus/Overview.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a987322bee524ba1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/LInks/Links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af203ffa28c57cba",
+            "id": "2d2e29165d7b8ac3",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "36e719dfaa5069dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Pagination_Types.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Backend/Pagination_Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Backend/Pagination_Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -179,7 +133,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Backend/Pagination_Types.md"
+              }
+            }
+          },
+          {
+            "id": "830e287f16a6be0c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -199,8 +165,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af203ffa28c57cba",
+  "active": "36e719dfaa5069dc",
   "lastOpenFiles": [
+    "Backend/Authentication_and_authorization/JWT.md",
+    "Backend/Pagination_Types.md",
+    "Backend/Sync_Vs_Async.md",
+    "Backend/Parallelism_and_concurrency.md",
+    "!Menus/Overview.md",
+    "!Menus/Frontend.md",
+    "!Menus/Backend.md",
+    "Backend/CSharp.md",
+    "Resources/Links/Links.md",
+    "Resources/Puctures/Things_Theme_obsidian_md_notes.png",
+    "Resources/Puctures/obsidian_md_notes_graph.png",
+    "Resources/Links",
+    "Backend/Authentication_and_authorization/SSO.md",
+    "Backend/Authentication_and_authorization/Authentication.md",
+    "Obsidian_MD_Help.md",
+    "Backend/Authentication_and_authorization/Authorization.md",
+    "Resources/LInks/Links.md",
     "Principles_&_Others/Architectures/Common.md",
     "Principles_&_Others/Patterns/CQRS.md",
     "Principles_&_Others/Architectures/Microservices/Messages_Transports.md",
@@ -208,35 +191,19 @@
     "Principles_&_Others/Patterns/Design_Patterns.md",
     "Principles_&_Others/Algorithms/Weighted_Random_Selection.md",
     "Principles_&_Others/Algorithms/Sorts.md",
-    "Backend/Authentication_and_authorization/SSO.md",
-    "Backend/Authentication_and_authorization/JWT.md",
-    "Backend/Authentication_and_authorization/Authorization.md",
-    "Backend/Authentication_and_authorization/Authentication.md",
     "Backend/Authentication_and_authorization",
     "DevOps/Gateways/Api_Gateway.md",
     "SQL/MSSQL/Deadlocks.md",
     "SQL/MSSQL/Locks.md",
-    "Backend/Parallelism_and_concurrency.md",
-    "Backend/Sync_Vs_Async.md",
-    "Backend/Pagination_Types.md",
-    "Backend/CSharp.md",
-    "Resources/LInks/Links.md",
     "Principles_&_Others/Architectures/Microservices/Message_Brokers.md",
     "Resources/LInks",
     "Resources/Puctures",
-    "Principles_&_Others/Architectures/Rest_Architecture.md",
     "Principles_&_Others/Architectures/Microservices",
-    "DevOps/Docker/Docker.md",
-    "DevOps/Kubernetes/Kubernetes.md",
-    "Principles_&_Others/Architectures/DDD.md",
     "DevOps/Gateways",
     "DevOps/Load_Balancing",
     "DevOps/Docker",
     "DevOps/Kubernetes",
     "DevOps/Clauds/Azure",
-    "DevOps/Clauds",
-    "Frontend/React.md",
-    "Principles_&_Others/OOP/SOLID.md",
     "Resources/Puctures/C_Sharp_wordmark.png",
     "resources/C_Sharp_wordmark.svg.png",
     "Untitled.canvas"

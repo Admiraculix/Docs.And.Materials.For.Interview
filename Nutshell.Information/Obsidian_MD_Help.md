@@ -1,3 +1,21 @@
+MarkDown Obsidian Links:
+https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
+
+Table example:
+
+| Left Aligned | Centered | Right Aligned | 
+| :--- | :---: | ---: |
+| Cell 1 | Cell 2 | Cell 3 |
+| Cell 4 | Cell 5 | Cell 6 |
+
+Notes:
+> [!note]
+> this is example notes!
+> 
+
+Theme Things:
+*Link https://github.com/colineckert/obsidian-things
+**Extras:**
 ```
 ## Basic
 - [ ] to-do
@@ -28,7 +46,6 @@
 - [P] open pull request
 - [M] merged pull request
 ```
-
 ## Basic
 - [ ] to-do
 - [/] incomplete
@@ -38,7 +55,7 @@
 - [<] scheduling
 
 ## Extras
-- [x] question
+- [?] question
 - [!] important
 - [*] star
 - ["] quote
