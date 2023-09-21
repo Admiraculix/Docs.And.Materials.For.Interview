@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Backend/Pagination_Types.md",
+                "file": "Obsidian_MD_Cheat_Sheet.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Pagination_Types.md",
+                "file": "Obsidian_MD_Cheat_Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Pagination_Types.md",
+                "file": "Obsidian_MD_Cheat_Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Pagination_Types.md"
+                "file": "Obsidian_MD_Cheat_Sheet.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "36e719dfaa5069dc",
   "lastOpenFiles": [
-    "Backend/Authentication_and_authorization/JWT.md",
     "Backend/Pagination_Types.md",
+    "Backend/Authentication_and_authorization/JWT.md",
     "Backend/Sync_Vs_Async.md",
     "Backend/Parallelism_and_concurrency.md",
     "!Menus/Overview.md",
@@ -181,7 +181,7 @@
     "Resources/Links",
     "Backend/Authentication_and_authorization/SSO.md",
     "Backend/Authentication_and_authorization/Authentication.md",
-    "Obsidian_MD_Help.md",
+    "Obsidian_MD_Cheat_Sheet.md",
     "Backend/Authentication_and_authorization/Authorization.md",
     "Resources/LInks/Links.md",
     "Principles_&_Others/Architectures/Common.md",

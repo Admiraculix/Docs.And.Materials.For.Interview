@@ -1,6 +1,5 @@
-MarkDown Obsidian Links:
-https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
-
+***
+Native Markdown:
 Table example:
 
 | Left Aligned | Centered | Right Aligned | 
@@ -8,13 +7,17 @@ Table example:
 | Cell 1 | Cell 2 | Cell 3 |
 | Cell 4 | Cell 5 | Cell 6 |
 
+***
+Markdown Obsidian Links:
+- [b] *Link:* https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
+
 Notes:
 > [!note]
 > this is example notes!
 > 
 
 Theme Things:
-*Link https://github.com/colineckert/obsidian-things
+- [b] *Link:*  https://github.com/colineckert/obsidian-things
 **Extras:**
 ```
 ## Basic
