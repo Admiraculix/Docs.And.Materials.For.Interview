@@ -1,5 +1,6 @@
-*Clean Architecture:
-https://netsharpdev.com/2019/12/04/clean-architecture/
+***
+- [f] *Clean Architecture:
+- [b] Link: https://netsharpdev.com/2019/12/04/clean-architecture/
 
 Invert dependency -> from the inside out
 Immediate implementation with any program lang
@@ -13,3 +14,5 @@ Advantages of Clean Architecture:
 -Easy to understand and maintain
 -Testing is facilitated
 
+
+Tags: #clean #architecture

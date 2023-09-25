@@ -1,16 +1,17 @@
-https://tech.tamara.co/ddd-in-a-nutshell-3852b0a6155a
+***
+- [b] Link: https://tech.tamara.co/ddd-in-a-nutshell-3852b0a6155a
 
 *The strategic pattern: 
 Ubiquitous language - all steakholders speak same lang
 This will help your teams align and agree on the same terms hence bringing in the same understanding of the definition or business. I would emphasize that this is needed and should be done from the beginning and keep going during the development period.
 
 Bounded context -> Upstream and downstream (U or D) -> ACL -> Anti-corruption leayer pattern
-https://www.martinfowler.com/bliki/BoundedContext.html
+- [b] Link: https://www.martinfowler.com/bliki/BoundedContext.html
  tool will assist you in defining primary and subdomains and the dependencies between them (upstream and downstream). Then, based on that, you would structure your application in terms of components or services. And last but not least, organizing your teams will be responsible for building and maintaining those services.
 
 ACL: Translation from some 3th party. Implement a façade or adapter layer between different subsystems. 
 * added latency
-https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer
+- [b] Link: https://learn.microsoft.com/en-us/azure/architecture/patterns/anti-corruption-layer
 
 
 *The tactical pattern:

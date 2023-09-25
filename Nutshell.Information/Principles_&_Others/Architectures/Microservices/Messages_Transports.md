@@ -1,5 +1,6 @@
-Masstransit:
-https://masstransit.io/
+***
+- [f] Masstransit:
+- [b] Link: https://masstransit.io/
 MassTransit is an open-source distributed application framework for .NET that provides a consistent abstraction on top of the supported message transports. The interfaces provided by MassTransit reduce message-based application complexity and allow developers to focus their effort on adding business value
 
 *Message Routing -> Type-based publish/subscribe and automatic broker topology configuration
@@ -11,3 +12,7 @@ MassTransit is an open-source distributed application framework for .NET that pr
 *Sagas, State Machines -> Reliable, durable, event-driven workflow orchestration
 *Routing Slip Activities -> Distributed, fault-tolerant transaction choreography with compensation
 *Request, Response -> Handle requests with fast, automatic response routing
+
+
+
+Tags: #transport #message

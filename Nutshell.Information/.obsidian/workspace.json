@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian_MD_Cheat_Sheet.md",
+                "file": "Principles_&_Others/Architectures/DDD.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#brokers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian_MD_Cheat_Sheet.md",
+                "file": "Principles_&_Others/Architectures/DDD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian_MD_Cheat_Sheet.md",
+                "file": "Principles_&_Others/Architectures/DDD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian_MD_Cheat_Sheet.md"
+                "file": "Principles_&_Others/Architectures/DDD.md"
               }
             }
           },
@@ -167,35 +167,36 @@
   },
   "active": "36e719dfaa5069dc",
   "lastOpenFiles": [
-    "Backend/Pagination_Types.md",
-    "Backend/Authentication_and_authorization/JWT.md",
+    "Principles_&_Others/Architectures/Rest_Architecture.md",
+    "Principles_&_Others/OOP/SOLID.md",
+    "Principles_&_Others/Architectures/DDD.md",
+    "Principles_&_Others/Patterns/Design_Patterns.md",
+    "Resources/Links/Links.md",
+    "Principles_&_Others/Patterns/CQRS.md",
+    "Principles_&_Others/Architectures/Common.md",
+    "Principles_&_Others/Architectures/Clean_Architecture.md",
+    "Principles_&_Others/Architectures/Microservices/Messages_Transports.md",
+    "Principles_&_Others/Architectures/Microservices/Message_Brokers.md",
+    "Principles_&_Others/Algorithms/Weighted_Random_Selection.md",
+    "Principles_&_Others/Algorithms/Sorts.md",
+    "DevOps/Kubernetes/Kubernetes.md",
+    "DevOps/Gateways/Api_Gateway.md",
+    "DevOps/Docker/Docker.md",
+    "DevOps/Data_Migration/Data_Migration_Strategy.md",
     "Backend/Sync_Vs_Async.md",
     "Backend/Parallelism_and_concurrency.md",
-    "!Menus/Overview.md",
-    "!Menus/Frontend.md",
+    "Backend/Pagination_Types.md",
+    "Backend/Authentication_and_authorization/SSO.md",
+    "Backend/Authentication_and_authorization/JWT.md",
+    "Backend/Authentication_and_authorization/Authorization.md",
+    "Backend/Authentication_and_authorization/Authentication.md",
     "!Menus/Backend.md",
-    "Backend/CSharp.md",
-    "Resources/Links/Links.md",
+    "!Menus/Frontend.md",
+    "!Menus/Overview.md",
     "Resources/Puctures/Things_Theme_obsidian_md_notes.png",
     "Resources/Puctures/obsidian_md_notes_graph.png",
     "Resources/Links",
-    "Backend/Authentication_and_authorization/SSO.md",
-    "Backend/Authentication_and_authorization/Authentication.md",
-    "Obsidian_MD_Cheat_Sheet.md",
-    "Backend/Authentication_and_authorization/Authorization.md",
-    "Resources/LInks/Links.md",
-    "Principles_&_Others/Architectures/Common.md",
-    "Principles_&_Others/Patterns/CQRS.md",
-    "Principles_&_Others/Architectures/Microservices/Messages_Transports.md",
-    "Principles_&_Others/Architectures/Clean_Architecture.md",
-    "Principles_&_Others/Patterns/Design_Patterns.md",
-    "Principles_&_Others/Algorithms/Weighted_Random_Selection.md",
-    "Principles_&_Others/Algorithms/Sorts.md",
     "Backend/Authentication_and_authorization",
-    "DevOps/Gateways/Api_Gateway.md",
-    "SQL/MSSQL/Deadlocks.md",
-    "SQL/MSSQL/Locks.md",
-    "Principles_&_Others/Architectures/Microservices/Message_Brokers.md",
     "Resources/LInks",
     "Resources/Puctures",
     "Principles_&_Others/Architectures/Microservices",

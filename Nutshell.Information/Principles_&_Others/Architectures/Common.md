@@ -1,3 +1,4 @@
+***
 1. Layered Architecture: Separating the application into distinct layers (presentation, business logic, data access) to promote modularity and maintainability.
 
 2. Monolithic Architecture: Building the entire application as a single, tightly integrated unit.
@@ -39,3 +40,7 @@
 20. Blockchain Architecture: Designing applications that utilize blockchain technology for distributed and immutable data storage and execution of smart contracts.
 
 Remember that these architectural patterns can often be combined or adapted to suit the specific needs and complexities of a given project. The choice of pattern depends on factors like scalability requirements, maintainability goals, and the specific domain of the application
+
+
+
+Tags: #architecture #patterns
