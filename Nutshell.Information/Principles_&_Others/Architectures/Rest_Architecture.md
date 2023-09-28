@@ -1,4 +1,4 @@
 In progress...
 
 
-Tags: #inprogress
+Tags: #inprogress #architecture #patterns #rest

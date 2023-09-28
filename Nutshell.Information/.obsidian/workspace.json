@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles_&_Others/Architectures/DDD.md",
+                "file": "Principles_&_Others/Patterns/Design_Patterns.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#brokers",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles_&_Others/Architectures/DDD.md",
+                "file": "Principles_&_Others/Patterns/Design_Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles_&_Others/Architectures/DDD.md",
+                "file": "Principles_&_Others/Patterns/Design_Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles_&_Others/Architectures/DDD.md"
+                "file": "Principles_&_Others/Patterns/Design_Patterns.md"
               }
             }
           },
@@ -167,34 +167,35 @@
   },
   "active": "36e719dfaa5069dc",
   "lastOpenFiles": [
-    "Principles_&_Others/Architectures/Rest_Architecture.md",
-    "Principles_&_Others/OOP/SOLID.md",
-    "Principles_&_Others/Architectures/DDD.md",
-    "Principles_&_Others/Patterns/Design_Patterns.md",
     "Resources/Links/Links.md",
+    "SQL/MSSQL/ACID.md",
+    "SQL/MSSQL/Cursor.md",
+    "SQL/MSSQL/Deadlocks.md",
+    "SQL/MSSQL/Indexes.md",
+    "SQL/MSSQL/Debugging_tools.md",
+    "SQL/MSSQL/Isolation_Levels.md",
+    "SQL/MSSQL/Locks.md",
+    "SQL/MSSQL/Normalizations.md",
+    "SQL/MSSQL/SPs.md",
+    "SQL/MSSQL/Sql_Functions.md",
+    "SQL/MSSQL/Syntax_keywords.md",
+    "SQL/MSSQL/Triggers.md",
+    "SQL/MSSQL/Views.md",
+    "Principles_&_Others/Patterns/Design_Patterns.md",
     "Principles_&_Others/Patterns/CQRS.md",
-    "Principles_&_Others/Architectures/Common.md",
-    "Principles_&_Others/Architectures/Clean_Architecture.md",
-    "Principles_&_Others/Architectures/Microservices/Messages_Transports.md",
-    "Principles_&_Others/Architectures/Microservices/Message_Brokers.md",
-    "Principles_&_Others/Algorithms/Weighted_Random_Selection.md",
-    "Principles_&_Others/Algorithms/Sorts.md",
-    "DevOps/Kubernetes/Kubernetes.md",
-    "DevOps/Gateways/Api_Gateway.md",
-    "DevOps/Docker/Docker.md",
-    "DevOps/Data_Migration/Data_Migration_Strategy.md",
-    "Backend/Sync_Vs_Async.md",
-    "Backend/Parallelism_and_concurrency.md",
-    "Backend/Pagination_Types.md",
-    "Backend/Authentication_and_authorization/SSO.md",
-    "Backend/Authentication_and_authorization/JWT.md",
-    "Backend/Authentication_and_authorization/Authorization.md",
-    "Backend/Authentication_and_authorization/Authentication.md",
-    "!Menus/Backend.md",
-    "!Menus/Frontend.md",
-    "!Menus/Overview.md",
+    "Principles_&_Others/OOP/Other_Principles.md",
+    "Principles_&_Others/OOP/SOLID.md",
     "Resources/Puctures/Things_Theme_obsidian_md_notes.png",
     "Resources/Puctures/obsidian_md_notes_graph.png",
+    "Resources/Puctures/C_Sharp_wordmark.png",
+    "!Menus/Overview.md",
+    "!Menus/Frontend.md",
+    "!Menus/Backend.md",
+    "Obsidian_MD_Cheat_Sheet.md",
+    "Backend/Authentication_and_authorization/SSO.md",
+    "Principles_&_Others/Architectures/DDD.md",
+    "Principles_&_Others/Architectures/Rest_Architecture.md",
+    "Principles_&_Others/Algorithms/Weighted_Random_Selection.md",
     "Resources/Links",
     "Backend/Authentication_and_authorization",
     "Resources/LInks",
@@ -205,7 +206,6 @@
     "DevOps/Docker",
     "DevOps/Kubernetes",
     "DevOps/Clauds/Azure",
-    "Resources/Puctures/C_Sharp_wordmark.png",
     "resources/C_Sharp_wordmark.svg.png",
     "Untitled.canvas"
   ]
