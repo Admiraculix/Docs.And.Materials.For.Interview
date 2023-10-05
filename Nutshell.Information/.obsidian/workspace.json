@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Principles_&_Others/Patterns/Design_Patterns.md",
+                "file": "SQL/MSSQL/ACID.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40a026f7933bcd6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/MSSQL/Views.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Principles_&_Others/Patterns/Design_Patterns.md",
+                "file": "SQL/MSSQL/Views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Principles_&_Others/Patterns/Design_Patterns.md",
+                "file": "SQL/MSSQL/Views.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Principles_&_Others/Patterns/Design_Patterns.md"
+                "file": "SQL/MSSQL/Views.md"
               }
             }
           },
@@ -165,22 +177,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36e719dfaa5069dc",
+  "active": "40a026f7933bcd6c",
   "lastOpenFiles": [
-    "Resources/Links/Links.md",
-    "SQL/MSSQL/ACID.md",
-    "SQL/MSSQL/Cursor.md",
-    "SQL/MSSQL/Deadlocks.md",
+    "SQL/MSSQL/Triggers.md",
+    "SQL/MSSQL/Syntax_keywords.md",
+    "SQL/MSSQL/Sql_Functions.md",
+    "SQL/MSSQL/Normalizations.md",
+    "SQL/MSSQL/Locks.md",
+    "SQL/MSSQL/Isolation_Levels.md",
     "SQL/MSSQL/Indexes.md",
     "SQL/MSSQL/Debugging_tools.md",
-    "SQL/MSSQL/Isolation_Levels.md",
-    "SQL/MSSQL/Locks.md",
-    "SQL/MSSQL/Normalizations.md",
-    "SQL/MSSQL/SPs.md",
-    "SQL/MSSQL/Sql_Functions.md",
-    "SQL/MSSQL/Syntax_keywords.md",
-    "SQL/MSSQL/Triggers.md",
+    "SQL/MSSQL/Deadlocks.md",
+    "SQL/MSSQL/Cursor.md",
+    "SQL/MSSQL/ACID.md",
     "SQL/MSSQL/Views.md",
+    "SQL/MSSQL/SPs.md",
+    "Principles_&_Others/Algorithms/Weighted_Random_Selection.md",
+    "Backend/CSharp.md",
+    "Resources/Puctures/cap-teorem.png",
+    "Resources/Links/Links.md",
     "Principles_&_Others/Patterns/Design_Patterns.md",
     "Principles_&_Others/Patterns/CQRS.md",
     "Principles_&_Others/OOP/Other_Principles.md",
@@ -194,8 +209,6 @@
     "Obsidian_MD_Cheat_Sheet.md",
     "Backend/Authentication_and_authorization/SSO.md",
     "Principles_&_Others/Architectures/DDD.md",
-    "Principles_&_Others/Architectures/Rest_Architecture.md",
-    "Principles_&_Others/Algorithms/Weighted_Random_Selection.md",
     "Resources/Links",
     "Backend/Authentication_and_authorization",
     "Resources/LInks",

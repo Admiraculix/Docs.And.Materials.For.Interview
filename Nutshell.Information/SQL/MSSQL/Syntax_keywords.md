@@ -1,25 +1,40 @@
-JOIN		Joins tables
-LEFT JOIN	Returns all rows from the left table, and the matching rows from the right table.
-                Връща всички редове от лявата таблица и съответстващите редове от дясната таблицa.
+***
+- [f] common words to explain in an interview:
+      
+**JOIN**	->  .Joins tables
 
-OUTER JOIN	Returns all rows when there is a match in either left table or right table.
-		Връща всички редове, когато има съвпадение в лявата или дясната таблица
+**LEFT JOIN**  -> 
+Returns all rows from the left table, and the matching rows from the right table.
+Връща всички редове от лявата таблица и съответстващите редове от дясната таблицa.
 
-RIGHT JOIN	Returns all rows from the right table, and the matching rows from the left table.
-		Връща всички редове от дясната таблица и съответстващите редове от лявата таблица.
-FULL OUTER JOIN	Returns all rows when there is a match in either left table or right table
-		Връща всички редове, когато има съвпадение в лявата или дясната таблица
+**OUTER JOIN**  -> 
+Returns all rows when there is a match in either left table or right table.
+Връща всички редове, когато има съвпадение в лявата или дясната таблица
 
-INNER JOIN	Returns rows that have matching values in both tables
-		Връща редове, които имат съвпадащи стойности и в двете таблици
+**RIGHT JOIN** -> 
+Returns all rows from the right table, and the matching rows from the left table.
+Връща всички редове от дясната таблица и съответстващите редове от лявата таблица.
+		
+**FULL OUTER JOIN**	-> 
+Returns all rows when there is a match in either left table or right table
+Връща всички редове, когато има съвпадение в лявата или дясната таблица
 
-UNION		Combines the result set of two or more SELECT statements (only distinct values)
-UNION ALL	Combines the result set of two or more SELECT statements (allows duplicate values)
+**INNER JOIN** ->
+Returns rows that have matching values in both tables
+Връща редове, които имат съвпадащи стойности и в двете таблици
 
-CHECK		A constraint that limits the value that can be placed in a column
+**UNION** -> Combines the result set of two or more SELECT statements (only distinct values)
 
-HAVING		Used instead of WHERE with aggregate functions ( into GROUP BY keyword)
-aggregate function (Count() Sum() Avg() Min() Max())
+**UNION ALL**	-> Combines the result set of two or more SELECT statements (allows duplicate values)
 
-MATCH  		??
--> https://neo4j.com/docs/cypher-manual/current/clauses/match/
+**CHECK**	 -> A constraint that limits the value that can be placed in a column
+
+**HAVING**	-> 
+Used instead of **WHERE** with aggregate functions ( into **GROUP BY** keyword)
+* aggregate function **(Count() Sum() Avg() Min() Max())**
+
+**MATCH**  	->	??
+- [b] Link: https://neo4j.com/docs/cypher-manual/current/clauses/match/
+
+
+Tags: #sql #keywords
